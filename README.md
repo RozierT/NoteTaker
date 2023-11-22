@@ -1,10 +1,20 @@
 # NoteTaker
 Note Taking Application
 
+## Description
+This is a simple note taking application that allows a user to add, review, and delete notes
+
+## Usage
+![Screenshot](images/NoteTaker.png)
+
+## Installation
+Visit the github repository to copy the code to your local device https://github.com/RozierT/NoteTaker or use the application online at roziert.github.io/NoteTaker/
+
 ## User Story
 AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
+
 ## Acceptance Criteria
 GIVEN a note-taking application
 WHEN I open the Note Taker
